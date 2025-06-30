@@ -1,16 +1,68 @@
-# smart_calculator
+# 🔢 Smart Calculator App
 
-A new Flutter project.
+A powerful and modern calculator app built using **Flutter**, designed to handle both **basic** and **scientific calculations**. It features a sleek dark UI, animated buttons, and a smooth user experience — perfect for everyday use and learning app development.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+✨ **Modern UI/UX**
+- Beautiful dark mode interface
+- Smooth button animations
+- Responsive layout for all screen sizes
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🧮 **Calculator Functions**
+- Basic: Addition, Subtraction, Multiplication, Division
+- Scientific: Sin, Cos, Tan, Log, Ln, Square root, Exponent, and more
+- Complex Expressions with parentheses
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+⚙️ **Advanced Functionalities**
+- Calculation **History**
+- One-tap **copy result**
+- Real-time calculation as you type
+- **Error handling** (e.g., divide by zero)
+
+---
+
+## 🚀 Technologies Used
+
+- 💙 Flutter & Dart
+- 💻 Android Studio
+- ☕ Java (optional native support)
+- 🔧 Git + GitHub
+
+---
+
+## 🖼️ Screenshots
+
+> Upload your screenshots to a `/screenshots` folder and update paths below.
+
+![Dark Mode UI](screenshots/calculator_dark_ui.png)
+![Scientific Mode](screenshots/scientific_mode.png)
+![Calculation History](screenshots/history_screen.png)
+
+---
+
+## 🛠️ Getting Started
+
+### 1. Clone the repository
+git clone https://github.com/priyanshi-devOps11/Smart-Calculator-App.git
+cd Smart-Calculator-App
+### 2. Install Flutter dependencies
+flutter pub get
+### 3. Run the app
+flutter run
+✅ Make sure a device/emulator is connected and Flutter is properly set up.
+
+## 👩‍💻 Author
+
+**Priyanshi Srivastava**  
+🎓 BTech CSE | Flutter & Android Developer  
+🔗 [GitHub](https://github.com/priyanshi-devOps11)  
+🔗 [LinkedIn](https://www.linkedin.com/in/priyanshi-srivastava-460965345/)
+
+---
+
+⭐ _If you like this project, give it a star and share your thoughts!_
+
+
